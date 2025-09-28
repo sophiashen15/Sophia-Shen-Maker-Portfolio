@@ -57,16 +57,3 @@ Probabilistic Text Generation
 - **File I/O** - Practical data processing and storage
 - **Algorithm Analysis** - Time and space complexity optimization
 
-## Getting Started
-
-**Running Core Data Structures**
-```bash
-# Compile and run individual structures
-javac int_linked_list.java
-java IntLinkedList
-
-javac dynamic_array.java  
-java DynamicArray
-
-javac int_binary_search_tree.java
-java IntBinarySearchTree
