@@ -11,7 +11,6 @@ Welcome to my maker portfolio! This repository brings together projects that sho
 **Highlights:**
 - Developed algorithms to minimize delivery time and emissions
 - Worked with route optimization, travel time data, and CO₂ reduction models
-- Files include: `routing_algorithm.py`, `route_calculation.py`, `travel.py`, and supporting datasets (`route_data.json`, `travel_time_data.json`)
 
 ### 2. `prform_app`
 
