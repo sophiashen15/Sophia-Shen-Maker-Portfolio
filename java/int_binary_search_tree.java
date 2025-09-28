@@ -323,7 +323,27 @@ public class IntBinarySearchTree{
         return root;
     }
 
-    // helper for deleteData: finds the smallest or leftmost node in given tree
+
+
+    // helper for deleteData: finds parent of given current Node in tree. 
+    private Node findParent(Node node, int data) {
+        if (node.right == null && node.left == null) {
+            if (node.data == data) {
+                return node;
+            }
+            return null;
+        }
+
+        else {
+            if (data < node.data) { // go on left subtree
+                return findParent(node.left, data); 
+            } else { // go on right subtree 
+                return findParent(node.right, data);
+            }
+        }
+    }
+
+    // helper for deleteData
     private int findSmallest(Node root) {
         int min = root.data;
         while (root.left != null) {
