@@ -29,8 +29,3 @@ A collection of fundamental and advanced data structures and algorithms implemen
 - `n_queens.py` - Backtracking solution to the N-Queens problem
 - `stable_marriage.py` - Gale-Shapley algorithm for stable matching
 - `magic_median.py` - Efficient median finding algorithms
-
-- **Python 3.x** - Primary implementation language
-- **Object-Oriented Design** - Clean class structures and encapsulation
-- **Algorithm Analysis** - Comprehensive complexity considerations
-- **Mathematical Optimization** - Efficient algorithmic implementations
