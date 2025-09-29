@@ -1,10 +1,6 @@
 # Java Data Structures and Algorithms
 
-A comprehensive collection of data structures and algorithms implemented in Java, showcasing object-oriented programming principles, type safety, and efficient algorithm design through both core implementations and advanced projects.
-
-## Project Overview
-
-This repository demonstrates fundamental computer science concepts through Java implementations. The project emphasizes object-oriented design, efficient data structure implementation, and practical algorithm applications through both individual components and complete sub-projects.
+A collection of core data structures and advanced projects implemented in Java.
 
 ## Core Data Structures
 
@@ -35,11 +31,12 @@ Data Compression Algorithm
 - Includes file I/O for practical compression applications
 
 **random writer/**
-Probabilistic Text Generation
-- Markov chain-based text generation system
-- N-gram analysis and statistical modeling
-- Context-aware text prediction algorithms
-- Natural language processing fundamentals
+Markov Chain Text Generation
+- Implements k-order Markov chain analysis (levels 0-10) on source texts
+- Analyzes character sequence probabilities to generate stylistically similar output
+- Dynamically selects next characters based on k-character seeds and frequency analysis
+- Only custom doubly linked list implementation (no built-in Java collections)
+- Uses probabilistic modeling and natural language processing fundamentals
 
 ## Key Features
 
