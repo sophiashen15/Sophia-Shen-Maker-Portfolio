@@ -1,6 +1,6 @@
 # Sophia Shen – Maker Portfolio
 
-Welcome to my maker portfolio! This repository brings together projects that showcase my interests in algorithms, data structures, transportation systems, and full-stack app development. Each folder represents a different area of exploration, from theoretical computer science to applied transportation engineering.
+Welcome to my maker portfolio! This repository brings together projects that showcase my work in algorithms, data structures, transportation systems, and full-stack app development. Each folder represents a different area of exploration, from theoretical computer science to applied transportation engineering.
 
 ## Repository Structure
 
@@ -14,12 +14,12 @@ Welcome to my maker portfolio! This repository brings together projects that sho
 
 ### 2. `prform_app`
 
-**Description:** A React + Tailwind CSS app for Prform, a wearable device startup concept that combines hardware sensors with software for real-time movement analysis.
+**Description:** A React + Tailwind CSS app for PRFORM, a wearable device startup concept that combines hardware sensors with software for real-time movement analysis.
 
 **Highlights:**
 - Full-stack web app with React, Tailwind, and PostCSS
 - Organized into `public/` and `src/` directories with main entry points like `app.jsx`
-- Demonstrates frontend development, responsive design, and startup-oriented product thinking
+- Demonstrates frontend development and responsive design
 
 ### 3. `data structures and algs`
 
@@ -30,7 +30,6 @@ Welcome to my maker portfolio! This repository brings together projects that sho
   - **Trees:** `AVL_tree.py`, `binary_search_tree.py`, `binomial_heap.py`
   - **Graphs:** `graph.py`, `dijkstra_alg.py`, `depth_first_search.py`
   - **Algorithmic paradigms:** `divide_and_conquer.py`, `karatsuba_multiplication.py`, `minimal_spanning_tree_kruskal.py`, `n_queens.py`
-- Emphasizes algorithmic problem solving and coding fluency
 
 ### 4. `java`
 
@@ -41,7 +40,6 @@ Welcome to my maker portfolio! This repository brings together projects that sho
 - Sub-projects:
   - **Huffman Encoding:** compression algorithm implementation
   - **Random Writer:** text generation using probabilistic modeling
-- Demonstrates object-oriented programming and algorithm design in Java
 
 ## Skills Demonstrated
 
