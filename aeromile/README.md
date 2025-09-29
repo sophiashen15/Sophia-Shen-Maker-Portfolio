@@ -30,5 +30,12 @@ Aeromile addresses the complex challenge of last-mile delivery optimization by c
 - **Multi-Modal Routing:** Seamless integration of truck and drone delivery systems
 - **Environmental Optimization:** Advanced CO₂ emission modeling and reduction algorithms
 - **Package Intelligence:** Smart package sorting and delivery prioritization
-- **Data-Driven Decisions:** Real-time travel data integration and analysis
-- **Performance Monitoring:** Comprehensive testing and visualization tools
+- **Data-Driven Decisions:** Travel data integration and analysis
+- **Performance Monitoring:** Comprehensive visualization tools
+
+## Technologies Used
+
+- **Python 3.x** - Core implementation language
+- **JSON** - Data storage and configuration management
+- **Optimization Algorithms** - Route planning and efficiency calculations
+- **Data Visualization** - Performance analysis and result plotting
