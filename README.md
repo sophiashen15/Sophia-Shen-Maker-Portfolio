@@ -39,7 +39,7 @@ Welcome to my maker portfolio! This repository brings together projects that sho
 - Includes core structures like `linked_list.java`, `dynamic_array.java`, `int_binary_search_tree.java`, and `hash_tables`
 - Sub-projects:
   - **Huffman Encoding:** compression algorithm implementation
-  - **Random Writer:** text generation using probabilistic modeling
+  - **Random Writer:** Markov chain text generation that analyzes character sequences and generates probabilistic text output (levels 0-10 analysis)
 
 ## Skills Demonstrated
 
