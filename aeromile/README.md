@@ -2,8 +2,6 @@
 
 A routing system for last-mile delivery that integrates trucks and drones to reduce delivery time and environmental impact.
 
-## File Structure
-
 ### Core Algorithm Files
 - `routing_algorithm.py` - Main routing optimization algorithms
 - `route_calculation.py` - Route computation and path analysis
