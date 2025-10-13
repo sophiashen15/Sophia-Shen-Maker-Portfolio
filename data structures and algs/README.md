@@ -1,12 +1,12 @@
 # Data Structures and Algorithms
 
-A collection of fundamental and advanced data structures and algorithms implemented in Python.
+A collection of data structures and algorithms implemented in Python.
 
 ## Tree Structures
 
 - `AVL_tree.py` - Self-balancing binary search tree with automatic rotation
-- `binary_search_tree.py` - Classic BST with insertion, deletion, and search operations
-- `binomial_heap.py` - Efficient priority queue supporting merge operations
+- `binary_search_tree.py` - BST with insertion, deletion, and search operations
+- `binomial_heap.py` - Priority queue supporting merge operations
 - `binary_heap.py` - Complete binary tree implementation for priority queues
 
 ## Graph Algorithms
@@ -29,14 +29,3 @@ A collection of fundamental and advanced data structures and algorithms implemen
 - `n_queens.py` - Backtracking solution to the N-Queens problem
 - `stable_marriage.py` - Gale-Shapley algorithm for stable matching
 - `magic_median.py` - Efficient median finding algorithms
-
-## Key Features
-
-- **Algorithmic Variety:** Covers multiple paradigms and problem-solving approaches
-- **Complexity Analysis:** Time and space complexity documentation
-
-## Technologies Used
-
-- **Python 3.x** - Primary implementation language
-- **Object-Oriented Design** - Clean class structures and encapsulation
-- **Algorithm Analysis** - Comprehensive complexity considerations
