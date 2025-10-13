@@ -2,46 +2,40 @@
 
 A full-stack React application for a wearable device startup that combines hardware sensors with software for real-time movement analysis and exercise form correction.
 
-## Project Overview
-
-Prform is a mobile-first web application designed to provide real-time feedback on exercise form, helping users prevent injuries and optimize their workout performance. The app simulates integration with wearable sensors to track movement patterns and deliver instant coaching feedback.
-
-## Core Features
+## Features
 
 **Real-Time Form Analysis**
-- Live form scoring system with percentage-based feedback
-- Exercise-specific coaching for four major compound lifts
-- Dynamic sensor data visualization and tracking
+- Live form scoring system with feedback
+- Coaching for four major compound lifts
 - Instant feedback on form corrections needed
 
-**Exercise Library**
+**Exercises**
 - Squat
 - Bench press
 - Deadlift
 - Overhead press
 
 **User Experience**
-- Onboarding flow with personalization
-- User profile management and goal setting
-- Exercise history and progress tracking
-- Intuitive mobile-first interface design
+- Onboarding with personalization
+- Progress tracking
+- Intuitive mobile-first interface
 
 **Smart Coaching System**
-- Context-aware form correction suggestions
-- Injury risk assessment and prevention
+- Form correction suggestions
+- Injury risk assessment
 - Personalized workout guidance
 
 ## Technical Architecture
 
-**Frontend Framework**
+**Frontend**
 - **React 18** - Modern React with Hooks for state management
 - **Custom Hooks** - Reusable state logic and side effects
 
-**Styling and Design**
-- **Tailwind CSS** - Utility-first CSS framework for rapid UI development
+**Design**
+- **Tailwind CSS** - Utility-first CSS framework for UI
 - **Responsive Design** - Mobile-first approach with breakpoint optimization
-- **Lucide React** - Consistent icon system throughout the application
-- **Modern UI Patterns** - Card-based layouts and smooth transitions
+- **Lucide React** - Consistent icon system
+- **Modern UI Patterns** - Card-based layouts and transitions
 
 ## Technologies Used
 
